@@ -1,1 +1,1 @@
-# Led cube in qt
+# Led cube in Qt
