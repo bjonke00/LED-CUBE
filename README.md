@@ -1,1 +1,1 @@
-# Led cube in Qt
+# Led cube prototype representation in Qt and OpenGL.
